@@ -1,4 +1,4 @@
-All of the rings are numbered and you are told which of the rings are connected.
+All of the rings are numbered and you know which of the rings are connected.
 This information is given as a sequence of pairs.
 Each pair describes the connected rings. For example: {1, 2} means that the 1st and 2nd rings are connected.
 You should count how many rings we need to break to get the maximum of separate rings. 
